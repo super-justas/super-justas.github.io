@@ -6,14 +6,14 @@
 
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
+  lastmod: "Naujausi"
+  trending_tags: "Žymių žymės"
   toc: "Contents"
 
 post:
-  relate_posts: "Further Reading"
+  relate_posts: "Daugiau skaitymo"
   button:
-    next: Newer
-    previous: Older
+    next: Kitas
+    previous: Ankstesnis
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Ieškoti"   # text show on search bar
